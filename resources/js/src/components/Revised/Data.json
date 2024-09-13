@@ -1,0 +1,54 @@
+{
+    "salesOverview": {
+      "title": "Sales Overview",
+      "data": [
+        {
+          "month": "March 2023",
+          "sales": [30, 40, 35, 50, 49, 60]
+        },
+        {
+          "month": "April 2023",
+          "sales": [40, 50, 45, 60, 55, 70]
+        },
+        {
+          "month": "May 2023",
+          "sales": [35, 45, 40, 55, 50, 65]
+        },
+        {
+          "month": "June 2023",
+          "sales": [50, 60, 55, 70, 65, 80]
+        }
+      ]
+    },
+    "yearlyBreakup": {
+      "title": "Yearly Breakup",
+      "data": [
+        {
+          "year": "2023",
+          "value": 36358,
+          "percentageIncrease": 9
+        },
+        {
+          "year": "2024",
+          "value": 35000,
+          "percentageIncrease": 7
+        }
+      ]
+    },
+    "monthlyEarnings": {
+      "title": "Monthly Earnings",
+      "data": [
+        {
+          "month": "March 2023",
+          "earnings": 6820,
+          "percentageIncrease": 9
+        },
+        {
+          "month": "April 2023",
+          "earnings": 7000,
+          "percentageIncrease": 8
+        }
+      ]
+    }
+  }
+  
